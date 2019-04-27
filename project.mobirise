@@ -112,7 +112,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Register Here</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Register Here</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -478,7 +478,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"> रजिस्ट्रेशन करण्यासाठी येथे क्लिक करा</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"tel:+91-973-049-6531\" data-toolbar=\"-mbrBtnMove\">अधिक माहितीसाठी फोन करा </a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://imojo.in/sciencetoys\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> रजिस्ट्रेशन करण्यासाठी येथे क्लिक करा</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"tel:+91-973-049-6531\" data-toolbar=\"-mbrBtnMove\">अधिक माहितीसाठी फोन करा </a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -734,7 +734,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/57395854-2078391098946332-3088113075308462080-n-960x7201.jpg",
+                "image": "@PROJECT_PATH@/assets/images/57395854-2078391098946332-3088113075308462080-n-960x7202.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/57395854-2078391098946332-3088113075308462080-n-960x720-800x600.jpg",
                 "caption": "Type caption here",
                 "active": false,
@@ -760,7 +760,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">रजिस्ट्रेशन करण्यासाठी येथे क्लिक करा</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"tel:+91-973-049-6531\" data-toolbar=\"-mbrBtnMove\">अधिक माहितीसाठी फोन करा</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://imojo.in/sciencetoys\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">रजिस्ट्रेशन करण्यासाठी येथे क्लिक करा</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"tel:+91-973-049-6531\" data-toolbar=\"-mbrBtnMove\">अधिक माहितीसाठी फोन करा</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
