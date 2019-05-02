@@ -562,77 +562,18 @@
           "_anchor": "contacts3-k"
         },
         {
-          "_styles": {
-            ".lead": {
-              "color": "#9fa3a7"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          },
           "_params": {
-            "showImages": true,
-            "showNumber": false,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "imageSize": 50,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.9
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
           },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/arvindgupta-2010p-embed-600x338.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title1": "पद्मश्री श्री. अरविंद गुप्ता",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "डॉ. अरविंद गुप्ता हे शिक्षणक्षेत्रामध्ये भारतातील एक अग्रगण्य नाव आहे. सोप्या सोप्या खेळण्यांमधून विज्ञान आणि गणित सारखे किचकट विषय शिकविण्यामध्ये त्यांचा हातखंडा आहे. IUCAA या पुणे येथील संस्थेमध्ये अनेक वर्षे काम केल्यानंतर काही वर्षांपूर्वी ते निवृत्त झाले.<br>डॉ. अरविंद गुप्ता यांनी शेकडो पुस्तके लहिली आहेत आणि अनुवादित केली आहेत. Arvindguptatoys.com या वेबसाईटवर अनेक पुस्तके त्यांनी पूर्णपणे मोफत उपलब्ध करून दिली आहेत.&nbsp;<br>NCERT मार्फत बालशिक्षणासाठी अनेक पुस्तके निर्माण करण्यात त्यांनी मोलाचे योगदान दिले आहे.",
-          "number1": "1",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">watch now</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://imojo.in/sciencetoys\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">रजिस्ट्रेशन करण्यासाठी येथे क्लिक करा</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"tel:+91-973-049-6531\" data-toolbar=\"-mbrBtnMove\">अधिक माहितीसाठी फोन करा</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "features7",
-          "_anchor": "features7-n"
+          "_name": "buttons1",
+          "_anchor": "buttons1-l"
         },
         {
           "_params": {
@@ -735,7 +676,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/57395854-2078391098946332-3088113075308462080-n-960x7204.jpg",
+                "image": "@PROJECT_PATH@/assets/images/57395854-2078391098946332-3088113075308462080-n-960x7205.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/57395854-2078391098946332-3088113075308462080-n-960x720-800x600.jpg",
                 "caption": "Type caption here",
                 "active": false,
@@ -754,20 +695,6 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-g"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://imojo.in/sciencetoys\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">रजिस्ट्रेशन करण्यासाठी येथे क्लिक करा</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"tel:+91-973-049-6531\" data-toolbar=\"-mbrBtnMove\">अधिक माहितीसाठी फोन करा</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-l"
         },
         {
           "_styles": {
